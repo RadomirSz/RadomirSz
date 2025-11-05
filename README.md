@@ -1,4 +1,4 @@
-Im not gonna say what race... what people uhhh doctor and what hospital and what media went to we know i can't say that...
+Im not gonna say what race... what people uhhh doctor and what hospital and what media went to we know i can't say that... <br>
 It was a jewish doctor
 
 <!--
