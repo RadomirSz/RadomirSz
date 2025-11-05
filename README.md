@@ -1,4 +1,5 @@
-## Hi there 👋
+## Im not gonna say what race... what people uhhh doctor and what hospital and what media went to we know i can't say that...
+## It was a jewish doctor
 
 <!--
 **RadomirSz/RadomirSz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
