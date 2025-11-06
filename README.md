@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RadomirSz&theme=ocean-gradient&border_radius=20&locale=it&hide_current_streak=true)])
-</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RadomirSz&theme=ocean-gradient&border_radius=20&locale=it&hide_current_streak=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
